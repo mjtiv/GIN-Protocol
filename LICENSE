@@ -1,4 +1,5 @@
 This repository contains two distinct categories of content:
+
 1. Open Protocol Components (Publicly Available):
     The .aix task file format
     The GIN (GPT Identification Number) labeling convention (formerly known as VIN — Verifiable Identity Number)
@@ -8,7 +9,6 @@ These components are released under a Creative Commons Attribution-NonCommercial
 You are free to share, remix, adapt, and build upon these components non-commercially, provided appropriate attribution is maintained.
 
 2. Protected Runtime Infrastructure (Patent-Pending, Commercial Rights Reserved):
-
 The following enforcement and runtime features remain protected by pending U.S. patent applications:
     GIN header parsing and trust threshold enforcement
     Execution control logic driven by .aix identity flags
@@ -18,7 +18,6 @@ The following enforcement and runtime features remain protected by pending U.S. 
 These patent-protected technologies are not licensed for commercial use, deployment, distribution, or integration without explicit written authorization.
 
 Commercial Licensing Disclaimer:
-
     No rights or licenses to commercially implement, sublicense, or distribute patented infrastructure components are granted through use or viewing of this repository.
     Any trademarks, logos, or third-party proprietary protocols referenced herein remain property of their respective holders.
 
